@@ -1,0 +1,32 @@
+_repo: Letters-on-the-Moral-and-Religious-State-of-South-America-written-during-a-residence-of-nearl__67526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thomson, James
+    alias: Thompson, James
+    birthdate: 1834
+    deathdate: 1882
+    gutenberg_agent_id: '569'
+    url: http://www.gutenberg.org/2009/agents/569
+    wikipedia: https://en.wikipedia.org/wiki/James_Thomson_(poet,_born_1834)
+description: ''
+gutenberg_issued: '2022-02-28'
+identifiers:
+  gutenberg: '67526'
+language: en
+pgterms:marc904: https://www.google.com/books/edition/Letters_on_the_Moral_and_Religious_State/ECECAAAAYAAJ?hl=en&gbpv=1
+pgterms:marc905: 20070203190806thomson
+pgterms:marc906: '1827'
+pgterms:marc907: GB
+production_note: Brian Wilson, Adrian Mastronardi and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: United Kingdom :James Nisbet,1827.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Letters on the Moral and Religious State of South America: written during
+  a residence of nearly seven years in Buenos Aires, Chile, Peru and Colombia'
+url: http://www.gutenberg.org/ebooks/67526
